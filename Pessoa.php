@@ -60,7 +60,7 @@ abstract class  Pessoa {
         echo "Cidade: " . $this->cidade;
         echo "<br>";
 
-        echo "Uf: " . $this->uf;
+        echo "UF: " . $this->uf;
         echo "<br>";
 
         echo "Cep: " . $this->cep;
